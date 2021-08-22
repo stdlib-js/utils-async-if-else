@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-async-if-else",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "If a predicate function returns a truthy value, return `x`; otherwise, return `y`.",
   "license": "Apache-2.0",
   "author": {
