@@ -20,7 +20,7 @@ limitations under the License.
 
 # ifelseAsync
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > If a predicate function returns a truthy value, return `x`; otherwise, return `y`.
 
@@ -168,8 +168,8 @@ next();
 
 ## See Also
 
--   [`@stdlib/utils/async/if-then`][@stdlib/utils/async/if-then]: if a predicate function returns a truthy value, invoke `x`; otherwise, invoke `y`.
--   [`@stdlib/utils/if-else`][@stdlib/utils/if-else]: if a condition is truthy, return `x`; otherwise, return `y`.
+-   <span class="package-name">[`@stdlib/utils/async/if-then`][@stdlib/utils/async/if-then]</span><span class="delimiter">: </span><span class="description">if a predicate function returns a truthy value, invoke `x`; otherwise, invoke `y`.</span>
+-   <span class="package-name">[`@stdlib/utils/if-else`][@stdlib/utils/if-else]</span><span class="delimiter">: </span><span class="description">if a condition is truthy, return `x`; otherwise, return `y`.</span>
 
 </section>
 
@@ -220,8 +220,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-async-if-else/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/utils-async-if-else?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/utils-async-if-else.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/utils-async-if-else/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
