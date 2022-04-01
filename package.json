@@ -37,7 +37,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-function": "^0.0.x"
+    "@stdlib/assert-is-function": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/assert-is-nan": "^0.0.x",
