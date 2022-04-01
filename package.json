@@ -1,0 +1,39 @@
+{
+  "name": "@stdlib/utils-async-if-else",
+  "version": "0.0.0",
+  "description": "If a predicate function returns a truthy value, return `x`; otherwise, return `y`.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/utils-async-if-else.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdutils",
+    "stdutil",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "asynchronous",
+    "async",
+    "if",
+    "else",
+    "if-else",
+    "control",
+    "flow",
+    "condition",
+    "conditional",
+    "either-or"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
