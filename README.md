@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import ifelseAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-if-else@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-async-if-else/tags). For example,
+
+```javascript
 import ifelseAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-if-else@v0.1.1-esm/index.mjs';
 ```
 
@@ -126,7 +131,7 @@ The `done` callback is invoked upon function completion and is provided at most 
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import ifelseAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-if-else@v0.1.1-esm/index.mjs';
+import ifelseAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-if-else@esm/index.mjs';
 
 var i;
 
