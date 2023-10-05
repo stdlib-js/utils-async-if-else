@@ -41,7 +41,7 @@
     "@stdlib/string-format": "^0.1.1"
   },
   "devDependencies": {
-    "@stdlib/assert-is-nan": "^0.1.0",
+    "@stdlib/assert-is-nan": "^0.1.1",
     "@stdlib/bench": "^0.1.0",
     "@stdlib/random-base-randu": "^0.1.0",
     "@stdlib/utils-noop": "^0.1.1",
