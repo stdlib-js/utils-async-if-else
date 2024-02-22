@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ifelseAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-if-else@esm/index.mjs';
+import ifelseAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-if-else@v0.2.1-esm/index.mjs';
 ```
 
 #### ifelseAsync( predicate, x, y, done )
@@ -126,7 +126,7 @@ The `done` callback is invoked upon function completion and is provided at most 
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import ifelseAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-if-else@esm/index.mjs';
+import ifelseAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-if-else@v0.2.1-esm/index.mjs';
 
 var i;
 
