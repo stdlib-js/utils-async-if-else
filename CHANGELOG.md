@@ -17,18 +17,6 @@
 
 <!-- /.bug-fixes -->
 
-<section class="issues">
-
-### Closed Issues
-
-This release closes the following issue:
-
-[#1095 ](https://github.com/stdlib-js/stdlib/issues/1095 )
-
-</section>
-
-<!-- /.issues -->
-
 <section class="commits">
 
 ### Commits
@@ -135,8 +123,7 @@ No changes reported for this release.
 
 ### BREAKING CHANGES
 
--   [`ace728f`](https://github.com/stdlib-js/stdlib/commit/ace728f330033182c28199dc9e13d75eda18cfe0): update minimum TypeScript version
--   [`ace728f`](https://github.com/stdlib-js/stdlib/commit/ace728f330033182c28199dc9e13d75eda18cfe0): update minimum TypeScript version to 4.1 
+-   [`ace728f`](https://github.com/stdlib-js/stdlib/commit/ace728f330033182c28199dc9e13d75eda18cfe0): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
